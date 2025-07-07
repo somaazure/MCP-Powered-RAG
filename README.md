@@ -1,4 +1,4 @@
-An open-source MCP server that enables advanced document search and Retrieval-Augmented Generation (RAG) over complex, real-world documents. The server integrates with GroundX, leveraging its state-of-the-art document retrieval capabilities to provide fast, accurate, and context-aware answers from user-provided data.
+MCP server that enables advanced document search and Retrieval-Augmented Generation (RAG) over complex, real-world documents. The server integrates with GroundX, leveraging its state-of-the-art document retrieval capabilities to provide fast, accurate, and context-aware answers from user-provided data.
 Key Outcomes:
 Seamless Integration: Effortlessly connects to custom document collections using the GroundX API.
 Plug-and-Play Setup: Simple environment configuration and dependency management for quick deployment.
