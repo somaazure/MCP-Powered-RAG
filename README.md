@@ -9,4 +9,10 @@ Enterprise knowledge management and internal search
 Customer support automation with context-aware responses
 Research, compliance, and regulatory document analysis
 
+** Using Multiple tools integrated into Cursor and with Natual language text, created a log file having all the details captured from Document using RAG powered by MCP
+![image](https://github.com/user-attachments/assets/a29946d6-611e-4d27-8e76-d57d3233fdfe)
+
+
 ![image](https://github.com/user-attachments/assets/d7c25178-a3ae-455a-a435-bf4463ce0185)
+
+
