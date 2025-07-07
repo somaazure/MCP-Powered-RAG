@@ -1,24 +1,12 @@
-# Build an MCP server for RAG over comple real world docs
+An open-source MCP server that enables advanced document search and Retrieval-Augmented Generation (RAG) over complex, real-world documents. The server integrates with GroundX, leveraging its state-of-the-art document retrieval capabilities to provide fast, accurate, and context-aware answers from user-provided data.
+Key Outcomes:
+Seamless Integration: Effortlessly connects to custom document collections using the GroundX API.
+Plug-and-Play Setup: Simple environment configuration and dependency management for quick deployment.
+API-Driven: Exposes RESTful endpoints for document upload, search, and RAG-based question answering.
+Open Source: Fully extensible and available for community contributions.
+Use Cases:
+Enterprise knowledge management and internal search
+Customer support automation with context-aware responses
+Research, compliance, and regulatory document analysis
 
-This server leverages [GroundX](https://eyelevel.ai/)'s state-of-the-art document search and retrieval capabilities.
-
-You can quickly test it on your own complex docs [here](https://eyelevel.ai/).
-
-### Setup
-
-To sync dependencies, run:
-
-```sh
-uv sync
-```
-
-### Environment Variables
-
-You need to set up the following environment variables:
-
-```sh
-GROUNDX_API_KEY=...
-```
-[Get your GroundX API keys here](https://eyelevel.ai/)
-
-Ensure these variables are configured correctly before running the application use `.env.example` as reference and create your own `.env` file.
+![image](https://github.com/user-attachments/assets/d7c25178-a3ae-455a-a435-bf4463ce0185)
