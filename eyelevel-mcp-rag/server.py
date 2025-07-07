@@ -19,7 +19,7 @@ def search_doc_for_rag_context(query: str) -> str:
         str: Relevant text content that can be used by the LLM to answer the query.
     """
     response = client.search.content(
-        id=17221,
+        id=19917,
         query=query,
         n=10,
     )
@@ -39,7 +39,7 @@ def ingest_documents(local_file_path: str) -> str:
     client.ingest(
         documents=[
             Document(
-            bucket_id=17279,
+            bucket_id=19917,
             file_name=file_name,
             file_path=local_file_path,
             file_type="pdf",
